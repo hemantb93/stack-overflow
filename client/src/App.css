@@ -1,0 +1,22 @@
+/* Home CSS */
+
+.home-container-1 {
+  max-width: 1250px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0% auto;
+  padding-top: 30px;
+}
+
+.home-container-2 {
+  /* height: 100vh; */
+  max-width: 1250px;
+  width: calc(100% - 164px);
+  padding: 24px;
+  box-sizing: border-box;
+  display: flex;
+  margin: 0% auto;
+  justify-content: space-between;
+}
+
